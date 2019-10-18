@@ -130,7 +130,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.).  You should have permission to install software on your laptop. Before the workshop, please make sure that your laptop has <a href="#setup">a few specific software packages installed</a>.
 </p>
 
 {% comment%}
@@ -159,10 +159,10 @@ special instructions.
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
+  organizers in advance.  If we can make learning easier for
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
-  attempt to provide them.
+  do our best to help.
 </p>
 
 {% comment %}
@@ -191,6 +191,22 @@ Display the contact email address set in the configuration file.
 </p>
 
 <hr/>
+
+
+<h2>Registration</h2>
+<p>
+  Space is limited to 24 participants for this workshop
+  and registration is required. A fee of $46.00 will 
+  be charged and lunch will be provided on both days. 
+  Please plan on attending the entire time for both days.
+  You can register in UF's conference system here:
+</p>
+<p><strong>
+  We expect to open registration for this workshop on Monday, October 28, 2019.
+  <!-- <a href="">Register Now</a> -->
+  <!-- Registration is now full -->
+</strong></p>
+
 
 {% comment %} 
 SURVEYS - DO NOT EDIT SURVEY LINKS 
