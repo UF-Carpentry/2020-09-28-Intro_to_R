@@ -196,7 +196,7 @@ Display the contact email address set in the configuration file.
 <h2>Registration</h2>
 <p>
   Space is limited to 24 participants for this workshop
-  and registration is required. A fee of $46.00 will 
+  and registration is required. A fee of $45.00 will 
   be charged and lunch will be provided on both days. 
   Please plan on attending the entire time for both days.
   You can register in UF's conference system here:
