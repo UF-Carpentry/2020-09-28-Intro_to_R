@@ -201,7 +201,6 @@ Display the contact email address set in the configuration file.
   Please plan on attending the entire time for both days.
 </p>
 <p><strong>
-  We expect to open registration for this workshop on Monday, October 28, 2019.
   <a href="http://reg.conferences.dce.ufl.edu/SSP/1400074591">Register for this workshop!</a>
   <!-- Registration is now full -->
 </strong></p>
