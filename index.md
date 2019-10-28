@@ -199,14 +199,15 @@ Display the contact email address set in the configuration file.
   and registration is required. A fee of $45.00 will 
   be charged and lunch will be provided on both days. 
   Please plan on attending the entire time for both days.
-  You can register in UF's conference system here:
+  You can register in UF's conference system <a href="http://reg.conferences.dce.ufl.edu/SSP/1400074591">here</a> 
 </p>
+{% comment %}
 <p><strong>
   We expect to open registration for this workshop on Monday, October 28, 2019.
   <!-- <a href="">Register Now</a> -->
   <!-- Registration is now full -->
 </strong></p>
-
+{% endcomment %}
 
 {% comment %} 
 SURVEYS - DO NOT EDIT SURVEY LINKS 
