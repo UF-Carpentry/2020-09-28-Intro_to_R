@@ -1,19 +1,19 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "UF Carpentries Workshop: Intro to Data Analysis with R and Version Control"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "432 Newell Dr, Gainesville, FL 32603"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "UF Carpentries Workshop: Intro to R"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Zoom- Online Workshop"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-latitude: "29.648292"     # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-82.344092"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "November 4-5, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 AM - 4:30 PM"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-11-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-11-05        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Eve Bohnett", "Dimitri Bourilkov", "Chandra Earl", "Geraldine Klarenberg", "Brian Stucky"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Vratika Chaudhary", "Jana Hilsenroth", "Amy Kendig", "Elise Morrison", "Jennica Poongavanan", "Ben Toh"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+latitude: ""     # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: ""    # decimal longitude of the workshop venue (use https://www.latlong.net)
+humandate: "September 28-29, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "10:00 AM - 5:30 PM"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2020-09-28      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2020-09-28       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Eve Bohnett", "Brian Stucky"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Vratika Chaudhary", "Elise Morrison", "Jennica Poongavanan"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["chaudharyv@ufl.edu", "emorrison@ufl.edu", "stuckyb@flmnh.ufl.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://pad.carpentries.org/2019-11-04-UF_Intro_to_R_etc            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://pad.carpentries.org/2020-09-28-Intro_to_R            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -129,7 +129,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
+  <strong>Requirements:</strong> Participants have a computer with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.).  You should have permission to install software on your laptop. Before the workshop, please make sure that your laptop has <a href="#setup">a few specific software packages installed</a>.
 </p>
 
