@@ -202,7 +202,7 @@ Display the contact email address set in the configuration file.
  
 </p>
 <p><strong>
-  <a href="">Register for this workshop!</a>
+  <a href="https://informatics.research.ufl.edu/event/uf-carpentries-club-upcoming-events/">Register for this workshop!</a>
   <!-- Registration is now full -->
 </strong></p>
 
